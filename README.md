@@ -51,7 +51,7 @@ An intuitive, PHP-based **ERP Management System** for efficient handling of serv
 
 1. Clone the Repository
 ```
-git clone https://github.com/your-username/ERP-Management-System.git
+git clone https://github.com/vidhi1509/ERP-Management-System.git
 ```
 
 2. Setup the Database
